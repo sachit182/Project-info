@@ -5,12 +5,12 @@ Please submit the link to this github document here: https://docs.google.com/for
 
 Follow this example in a new github document...
 
-# My Project Name Military Cadence
+# My Project Name :  Military Cadence
 ## Overview
 This project will use python to ask the user the type of military cadence they want to read. After that it will randomly return a military cadence
 
 ## Inspiration
-I chose to do this project to help soldiers learn cadences. Due to Covid19 soldiers have not run in formation for a long time and they have probably forgotten the words to some of the cadences.
+I chose to do this project to help soldiers learn cadences. Due to Covid19, soldiers have not run in formation for a long time and they have probably forgotten the words to some of the cadences.
 
 ## Skills Used
 In order to accomplish this project, I had to use the following pythonic skills:
